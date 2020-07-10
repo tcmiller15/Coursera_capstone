@@ -1,6 +1,6 @@
 Section 1: Introduction/Business Problem
   - Philadelphia
-  My project is centered on the city of Philadelphia, Pennsylvania. I am helping a pair of people who are looking to move to Philadelphia and realize their dream of opening their own cafe/breakfast spot. This project will help these two people have an easier time of determining where in Philadelphia would be a good location to open such a cafe. Some initial questions that I will address to make identifying a viable location for their cafe are:
+  My project is centered on the city of Philadelphia, Pennsylvania. As with any expansive city, there is certainly no shortage of dining options, in quantity or variety. By leveraging available data, we can study where restaurants already exist, which areas of the city are more popular than other, or see more foot traffic, and analyze or predict certain areas that might benefit from a new restaurant or cafe. Some initial questions that I will address to make identifying a viable location for opening a cafe are:
     1) What areas/neighborhoods of Philadelphia would be a promising, safe spot for a cafe?
     2) What neighborhoods already have breakfast restaurants and cafes throughout them?
     3) What neighborhoods have available retail space? 
