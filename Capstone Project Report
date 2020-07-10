@@ -1,0 +1,15 @@
+Section 1: Introduction/Business Problem
+  - Philadelphia
+  My project is centered on the city of Philadelphia, Pennsylvania. I am helping a pair of people who are looking to move to Philadelphia and realize their dream of opening their own cafe/breakfast spot. This project will help these two people have an easier time of determining where in Philadelphia would be a good location to open such a cafe. Some initial questions that I will address to make identifying a viable location for their cafe are:
+    1) What areas/neighborhoods of Philadelphia would be a promising, safe spot for a cafe?
+    2) What neighborhoods already have breakfast restaurants and cafes throughout them?
+    3) What neighborhoods have available retail space? 
+    4) Are some neighborhoods more expensive than others to open a cafe in?
+
+
+Section 2: Data
+  - The basic data required to tackle this problem is location data on the city of Philadelphia. That includes names of different boroughs, neighborhoods, zip codes, etc.
+  - Foursquare Data
+      - Once the neighborhood data is obtained and cleaned, Foursquare will be useful to explore the neighborhoods of Philadelphia for what kind of cafes, coffee shops, restaraunts, and diners are located in different neighborhoods. This will be the primary information for further analysis to address at least questions 1&2 listed in Section 1.
+  - Philadelphia Real Estate Data Set: https://www.kaggle.com/harry007/philly-real-estate-data-set-sample
+      - This data can assist in locating available commercial real estate after other analyses have identified neighborhoods of promise for opening a cafe/breakfast shop. Questions 3&4 in the introduction can potentially be addressed with information from this data set.
