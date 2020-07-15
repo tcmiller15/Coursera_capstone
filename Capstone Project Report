@@ -9,6 +9,7 @@ Section 1: Introduction/Business Problem
 
 Section 2: Data
   - The basic data required to tackle this problem is location data on the city of Philadelphia. That includes names of different boroughs, neighborhoods, zip codes, etc.
+      - https://en.wikipedia.org/wiki/List_of_Philadelphia_neighborhoods : list of neighborhoods broken down by "borough"
   - Foursquare Data
       - Once the neighborhood data is obtained and cleaned, Foursquare will be useful to explore the neighborhoods of Philadelphia for what kind of cafes, coffee shops, restaraunts, and diners are located in different neighborhoods. This will be the primary information for further analysis to address at least questions 1&2 listed in Section 1.
   - Philadelphia Real Estate Data Set: https://www.kaggle.com/harry007/philly-real-estate-data-set-sample
